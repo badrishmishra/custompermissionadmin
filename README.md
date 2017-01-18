@@ -10,6 +10,6 @@ Steps:
 4. Create app/code/local/../../etc/adminhtml.xml
 (In adminhtml.xml you can define the check box using Access Control List tag <acl>)
 
-5.Create a form file app/design/adminhtml/../../sales/order/creaditmemo/create/
+5. Create a form file app/design/adminhtml/../../sales/order/creaditmemo/create/
 
-4. Create xml file (app/etc/modules/Mymodule_name.xml)
+6. Create xml file (app/etc/modules/Mymodule_name.xml)
